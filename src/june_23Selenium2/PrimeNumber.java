@@ -17,5 +17,10 @@ public static void main(String[] args) {
 }else{
 	System.out.println(num + " is not a prime number");
 	}
+		
+		//MethodDemo  md = new MethodDemo();
+		int h = MethodDemo.sub(10, 6);
+		System.out.println(h);
+		
 }}
 
